@@ -1,0 +1,6337 @@
+[
+	{
+		"number": 1,
+		"name": "bulbasaur",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 2,
+		"name": "ivysaur",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 3,
+		"name": "venusaur",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 4,
+		"name": "charmander",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 5,
+		"name": "charmeleon",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 6,
+		"name": "charizard",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 7,
+		"name": "squirtle",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 8,
+		"name": "wartortle",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 9,
+		"name": "blastoise",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 10,
+		"name": "caterpie",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 11,
+		"name": "metapod",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 12,
+		"name": "butterfree",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 13,
+		"name": "weedle",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 14,
+		"name": "kakuna",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 15,
+		"name": "beedrill",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 16,
+		"name": "pidgey",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 17,
+		"name": "pidgeotto",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 18,
+		"name": "pidgeot",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 19,
+		"name": "rattata",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 20,
+		"name": "raticate",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 21,
+		"name": "spearow",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 22,
+		"name": "fearow",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 23,
+		"name": "ekans",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 24,
+		"name": "arbok",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 25,
+		"name": "pikachu",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 26,
+		"name": "raichu",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 27,
+		"name": "sandshrew",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 28,
+		"name": "sandslash",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 29,
+		"name": "nidoran-f",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 30,
+		"name": "nidorina",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 31,
+		"name": "nidoqueen",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 32,
+		"name": "nidoran-m",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 33,
+		"name": "nidorino",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 34,
+		"name": "nidoking",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 35,
+		"name": "clefairy",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 36,
+		"name": "clefable",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 37,
+		"name": "vulpix",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 38,
+		"name": "ninetales",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 39,
+		"name": "jigglypuff",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 40,
+		"name": "wigglytuff",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 41,
+		"name": "zubat",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 42,
+		"name": "golbat",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 43,
+		"name": "oddish",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 44,
+		"name": "gloom",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 45,
+		"name": "vileplume",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 46,
+		"name": "paras",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 47,
+		"name": "parasect",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 48,
+		"name": "venonat",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 49,
+		"name": "venomoth",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 50,
+		"name": "diglett",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 51,
+		"name": "dugtrio",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 52,
+		"name": "meowth",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 53,
+		"name": "persian",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 54,
+		"name": "psyduck",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 55,
+		"name": "golduck",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 56,
+		"name": "mankey",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 57,
+		"name": "primeape",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 58,
+		"name": "growlithe",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 59,
+		"name": "arcanine",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 60,
+		"name": "poliwag",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 61,
+		"name": "poliwhirl",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 62,
+		"name": "poliwrath",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 63,
+		"name": "abra",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 64,
+		"name": "kadabra",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 65,
+		"name": "alakazam",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 66,
+		"name": "machop",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 67,
+		"name": "machoke",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 68,
+		"name": "machamp",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 69,
+		"name": "bellsprout",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 70,
+		"name": "weepinbell",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 71,
+		"name": "victreebel",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 72,
+		"name": "tentacool",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 73,
+		"name": "tentacruel",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 74,
+		"name": "geodude",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 75,
+		"name": "graveler",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 76,
+		"name": "golem",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 77,
+		"name": "ponyta",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 78,
+		"name": "rapidash",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 79,
+		"name": "slowpoke",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 80,
+		"name": "slowbro",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 81,
+		"name": "magnemite",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 82,
+		"name": "magneton",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 83,
+		"name": "farfetchd",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 84,
+		"name": "doduo",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 85,
+		"name": "dodrio",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 86,
+		"name": "seel",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 87,
+		"name": "dewgong",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 88,
+		"name": "grimer",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 89,
+		"name": "muk",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 90,
+		"name": "shellder",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 91,
+		"name": "cloyster",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 92,
+		"name": "gastly",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 93,
+		"name": "haunter",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 94,
+		"name": "gengar",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 95,
+		"name": "onix",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 96,
+		"name": "drowzee",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 97,
+		"name": "hypno",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 98,
+		"name": "krabby",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 99,
+		"name": "kingler",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 100,
+		"name": "voltorb",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 101,
+		"name": "electrode",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 102,
+		"name": "exeggcute",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 103,
+		"name": "exeggutor",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 104,
+		"name": "cubone",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 105,
+		"name": "marowak",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 106,
+		"name": "hitmonlee",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 107,
+		"name": "hitmonchan",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 108,
+		"name": "lickitung",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 109,
+		"name": "koffing",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 110,
+		"name": "weezing",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 111,
+		"name": "rhyhorn",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 112,
+		"name": "rhydon",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 113,
+		"name": "chansey",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 114,
+		"name": "tangela",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 115,
+		"name": "kangaskhan",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 116,
+		"name": "horsea",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 117,
+		"name": "seadra",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 118,
+		"name": "goldeen",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 119,
+		"name": "seaking",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 120,
+		"name": "staryu",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 121,
+		"name": "starmie",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 122,
+		"name": "mr-mime",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 123,
+		"name": "scyther",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 124,
+		"name": "jynx",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 125,
+		"name": "electabuzz",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 126,
+		"name": "magmar",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 127,
+		"name": "pinsir",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 128,
+		"name": "tauros",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 129,
+		"name": "magikarp",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 130,
+		"name": "gyarados",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 131,
+		"name": "lapras",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 132,
+		"name": "ditto",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 133,
+		"name": "eevee",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 134,
+		"name": "vaporeon",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 135,
+		"name": "jolteon",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 136,
+		"name": "flareon",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 137,
+		"name": "porygon",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 138,
+		"name": "omanyte",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 139,
+		"name": "omastar",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 140,
+		"name": "kabuto",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 141,
+		"name": "kabutops",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 142,
+		"name": "aerodactyl",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 143,
+		"name": "snorlax",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 144,
+		"name": "articuno",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 145,
+		"name": "zapdos",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 146,
+		"name": "moltres",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 147,
+		"name": "dratini",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 148,
+		"name": "dragonair",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 149,
+		"name": "dragonite",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 150,
+		"name": "mewtwo",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 151,
+		"name": "mew",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 152,
+		"name": "chikorita",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/152.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 153,
+		"name": "bayleef",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/153.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 154,
+		"name": "meganium",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/154.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 155,
+		"name": "cyndaquil",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/155.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 156,
+		"name": "quilava",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/156.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 157,
+		"name": "typhlosion",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 158,
+		"name": "totodile",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/158.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 159,
+		"name": "croconaw",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/159.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 160,
+		"name": "feraligatr",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/160.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 161,
+		"name": "sentret",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/161.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 162,
+		"name": "furret",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/162.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 163,
+		"name": "hoothoot",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/163.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 164,
+		"name": "noctowl",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/164.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 165,
+		"name": "ledyba",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/165.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 166,
+		"name": "ledian",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/166.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 167,
+		"name": "spinarak",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/167.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 168,
+		"name": "ariados",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/168.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 169,
+		"name": "crobat",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/169.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 170,
+		"name": "chinchou",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/170.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 171,
+		"name": "lanturn",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/171.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 172,
+		"name": "pichu",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/172.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 173,
+		"name": "cleffa",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/173.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 174,
+		"name": "igglybuff",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/174.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 175,
+		"name": "togepi",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/175.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 176,
+		"name": "togetic",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/176.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 177,
+		"name": "natu",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/177.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 178,
+		"name": "xatu",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/178.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 179,
+		"name": "mareep",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/179.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 180,
+		"name": "flaaffy",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/180.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 181,
+		"name": "ampharos",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/181.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 182,
+		"name": "bellossom",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/182.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 183,
+		"name": "marill",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/183.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 184,
+		"name": "azumarill",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 185,
+		"name": "sudowoodo",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/185.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 186,
+		"name": "politoed",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/186.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 187,
+		"name": "hoppip",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/187.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 188,
+		"name": "skiploom",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/188.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 189,
+		"name": "jumpluff",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/189.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 190,
+		"name": "aipom",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/190.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 191,
+		"name": "sunkern",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/191.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 192,
+		"name": "sunflora",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/192.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 193,
+		"name": "yanma",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/193.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 194,
+		"name": "wooper",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/194.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 195,
+		"name": "quagsire",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/195.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 196,
+		"name": "espeon",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/196.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 197,
+		"name": "umbreon",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/197.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 198,
+		"name": "murkrow",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/198.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 199,
+		"name": "slowking",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/199.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 200,
+		"name": "misdreavus",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/200.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 201,
+		"name": "unown",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 202,
+		"name": "wobbuffet",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/202.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 203,
+		"name": "girafarig",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/203.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 204,
+		"name": "pineco",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/204.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 205,
+		"name": "forretress",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/205.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 206,
+		"name": "dunsparce",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/206.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 207,
+		"name": "gligar",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/207.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 208,
+		"name": "steelix",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/208.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 209,
+		"name": "snubbull",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/209.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 210,
+		"name": "granbull",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/210.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 211,
+		"name": "qwilfish",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/211.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 212,
+		"name": "scizor",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/212.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 213,
+		"name": "shuckle",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/213.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 214,
+		"name": "heracross",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/214.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 215,
+		"name": "sneasel",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/215.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 216,
+		"name": "teddiursa",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/216.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 217,
+		"name": "ursaring",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/217.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 218,
+		"name": "slugma",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/218.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 219,
+		"name": "magcargo",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/219.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 220,
+		"name": "swinub",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/220.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 221,
+		"name": "piloswine",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/221.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 222,
+		"name": "corsola",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/222.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 223,
+		"name": "remoraid",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/223.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 224,
+		"name": "octillery",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/224.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 225,
+		"name": "delibird",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/225.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 226,
+		"name": "mantine",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/226.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 227,
+		"name": "skarmory",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/227.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 228,
+		"name": "houndour",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/228.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 229,
+		"name": "houndoom",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/229.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 230,
+		"name": "kingdra",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/230.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 231,
+		"name": "phanpy",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/231.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 232,
+		"name": "donphan",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/232.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 233,
+		"name": "porygon2",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/233.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 234,
+		"name": "stantler",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/234.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 235,
+		"name": "smeargle",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/235.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 236,
+		"name": "tyrogue",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/236.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 237,
+		"name": "hitmontop",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/237.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 238,
+		"name": "smoochum",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/238.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 239,
+		"name": "elekid",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/239.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 240,
+		"name": "magby",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/240.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 241,
+		"name": "miltank",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/241.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 242,
+		"name": "blissey",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/242.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 243,
+		"name": "raikou",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/243.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 244,
+		"name": "entei",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/244.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 245,
+		"name": "suicune",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/245.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 246,
+		"name": "larvitar",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/246.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 247,
+		"name": "pupitar",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/247.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 248,
+		"name": "tyranitar",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/248.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 249,
+		"name": "lugia",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/249.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 250,
+		"name": "ho-oh",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/250.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 251,
+		"name": "celebi",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/251.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 252,
+		"name": "treecko",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/252.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 253,
+		"name": "grovyle",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/253.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 254,
+		"name": "sceptile",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 255,
+		"name": "torchic",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/255.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 256,
+		"name": "combusken",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/256.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 257,
+		"name": "blaziken",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/257.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 258,
+		"name": "mudkip",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/258.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 259,
+		"name": "marshtomp",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/259.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 260,
+		"name": "swampert",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/260.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 261,
+		"name": "poochyena",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/261.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 262,
+		"name": "mightyena",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/262.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 263,
+		"name": "zigzagoon",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/263.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 264,
+		"name": "linoone",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/264.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 265,
+		"name": "wurmple",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/265.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 266,
+		"name": "silcoon",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/266.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 267,
+		"name": "beautifly",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/267.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 268,
+		"name": "cascoon",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/268.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 269,
+		"name": "dustox",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/269.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 270,
+		"name": "lotad",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/270.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 271,
+		"name": "lombre",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/271.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 272,
+		"name": "ludicolo",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/272.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 273,
+		"name": "seedot",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/273.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 274,
+		"name": "nuzleaf",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/274.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 275,
+		"name": "shiftry",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/275.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 276,
+		"name": "taillow",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/276.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 277,
+		"name": "swellow",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/277.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 278,
+		"name": "wingull",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/278.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 279,
+		"name": "pelipper",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 280,
+		"name": "ralts",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/280.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 281,
+		"name": "kirlia",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/281.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 282,
+		"name": "gardevoir",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 283,
+		"name": "surskit",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/283.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 284,
+		"name": "masquerain",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/284.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 285,
+		"name": "shroomish",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/285.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 286,
+		"name": "breloom",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/286.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 287,
+		"name": "slakoth",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/287.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 288,
+		"name": "vigoroth",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/288.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 289,
+		"name": "slaking",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/289.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 290,
+		"name": "nincada",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/290.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 291,
+		"name": "ninjask",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/291.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 292,
+		"name": "shedinja",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/292.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 293,
+		"name": "whismur",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/293.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 294,
+		"name": "loudred",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/294.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 295,
+		"name": "exploud",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/295.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 296,
+		"name": "makuhita",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/296.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 297,
+		"name": "hariyama",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/297.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 298,
+		"name": "azurill",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/298.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 299,
+		"name": "nosepass",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/299.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 300,
+		"name": "skitty",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/300.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 301,
+		"name": "delcatty",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/301.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 302,
+		"name": "sableye",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/302.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 303,
+		"name": "mawile",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/303.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 304,
+		"name": "aron",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/304.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 305,
+		"name": "lairon",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/305.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 306,
+		"name": "aggron",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/306.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 307,
+		"name": "meditite",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/307.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 308,
+		"name": "medicham",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/308.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 309,
+		"name": "electrike",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/309.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 310,
+		"name": "manectric",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/310.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 311,
+		"name": "plusle",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/311.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 312,
+		"name": "minun",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/312.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 313,
+		"name": "volbeat",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/313.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 314,
+		"name": "illumise",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/314.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 315,
+		"name": "roselia",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/315.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 316,
+		"name": "gulpin",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/316.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 317,
+		"name": "swalot",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/317.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 318,
+		"name": "carvanha",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/318.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 319,
+		"name": "sharpedo",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 320,
+		"name": "wailmer",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/320.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 321,
+		"name": "wailord",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/321.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 322,
+		"name": "numel",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/322.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 323,
+		"name": "camerupt",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/323.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 324,
+		"name": "torkoal",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/324.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 325,
+		"name": "spoink",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/325.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 326,
+		"name": "grumpig",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/326.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 327,
+		"name": "spinda",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/327.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 328,
+		"name": "trapinch",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/328.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 329,
+		"name": "vibrava",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/329.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 330,
+		"name": "flygon",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/330.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 331,
+		"name": "cacnea",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/331.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 332,
+		"name": "cacturne",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/332.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 333,
+		"name": "swablu",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/333.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 334,
+		"name": "altaria",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/334.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 335,
+		"name": "zangoose",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/335.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 336,
+		"name": "seviper",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/336.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 337,
+		"name": "lunatone",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/337.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 338,
+		"name": "solrock",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/338.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 339,
+		"name": "barboach",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/339.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 340,
+		"name": "whiscash",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/340.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 341,
+		"name": "corphish",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/341.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 342,
+		"name": "crawdaunt",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/342.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 343,
+		"name": "baltoy",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/343.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 344,
+		"name": "claydol",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/344.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 345,
+		"name": "lileep",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/345.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 346,
+		"name": "cradily",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/346.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 347,
+		"name": "anorith",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/347.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 348,
+		"name": "armaldo",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/348.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 349,
+		"name": "feebas",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/349.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 350,
+		"name": "milotic",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/350.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 351,
+		"name": "castform",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/351.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 352,
+		"name": "kecleon",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/352.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 353,
+		"name": "shuppet",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/353.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 354,
+		"name": "banette",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/354.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 355,
+		"name": "duskull",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/355.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 356,
+		"name": "dusclops",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/356.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 357,
+		"name": "tropius",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/357.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 358,
+		"name": "chimecho",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/358.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 359,
+		"name": "absol",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/359.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 360,
+		"name": "wynaut",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/360.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 361,
+		"name": "snorunt",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/361.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 362,
+		"name": "glalie",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/362.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 363,
+		"name": "spheal",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/363.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 364,
+		"name": "sealeo",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/364.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 365,
+		"name": "walrein",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/365.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 366,
+		"name": "clamperl",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/366.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 367,
+		"name": "huntail",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/367.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 368,
+		"name": "gorebyss",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/368.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 369,
+		"name": "relicanth",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/369.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 370,
+		"name": "luvdisc",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/370.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 371,
+		"name": "bagon",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/371.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 372,
+		"name": "shelgon",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/372.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 373,
+		"name": "salamence",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/373.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 374,
+		"name": "beldum",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/374.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 375,
+		"name": "metang",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/375.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 376,
+		"name": "metagross",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/376.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 377,
+		"name": "regirock",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/377.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 378,
+		"name": "regice",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/378.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 379,
+		"name": "registeel",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/379.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 380,
+		"name": "latias",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/380.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 381,
+		"name": "latios",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/381.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 382,
+		"name": "kyogre",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/382.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 383,
+		"name": "groudon",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/383.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 384,
+		"name": "rayquaza",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/384.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 385,
+		"name": "jirachi",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/385.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 386,
+		"name": "deoxys-normal",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/386.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 387,
+		"name": "turtwig",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/387.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 388,
+		"name": "grotle",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/388.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 389,
+		"name": "torterra",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/389.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 390,
+		"name": "chimchar",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/390.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 391,
+		"name": "monferno",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/391.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 392,
+		"name": "infernape",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/392.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 393,
+		"name": "piplup",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/393.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 394,
+		"name": "prinplup",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/394.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 395,
+		"name": "empoleon",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/395.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 396,
+		"name": "starly",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/396.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 397,
+		"name": "staravia",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/397.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 398,
+		"name": "staraptor",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/398.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 399,
+		"name": "bidoof",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/399.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 400,
+		"name": "bibarel",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/400.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 401,
+		"name": "kricketot",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/401.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 402,
+		"name": "kricketune",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/402.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 403,
+		"name": "shinx",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/403.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 404,
+		"name": "luxio",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/404.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 405,
+		"name": "luxray",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/405.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 406,
+		"name": "budew",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/406.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 407,
+		"name": "roserade",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/407.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 408,
+		"name": "cranidos",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/408.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 409,
+		"name": "rampardos",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/409.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 410,
+		"name": "shieldon",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/410.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 411,
+		"name": "bastiodon",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/411.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 412,
+		"name": "burmy",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/412.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 413,
+		"name": "wormadam-plant",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/413.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 414,
+		"name": "mothim",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/414.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 415,
+		"name": "combee",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/415.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 416,
+		"name": "vespiquen",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/416.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 417,
+		"name": "pachirisu",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/417.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 418,
+		"name": "buizel",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/418.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 419,
+		"name": "floatzel",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/419.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 420,
+		"name": "cherubi",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/420.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 421,
+		"name": "cherrim",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/421.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 422,
+		"name": "shellos",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/422.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 423,
+		"name": "gastrodon",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 424,
+		"name": "ambipom",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/424.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 425,
+		"name": "drifloon",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/425.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 426,
+		"name": "drifblim",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/426.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 427,
+		"name": "buneary",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/427.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 428,
+		"name": "lopunny",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/428.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 429,
+		"name": "mismagius",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/429.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 430,
+		"name": "honchkrow",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/430.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 431,
+		"name": "glameow",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/431.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 432,
+		"name": "purugly",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/432.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 433,
+		"name": "chingling",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/433.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 434,
+		"name": "stunky",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/434.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 435,
+		"name": "skuntank",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/435.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 436,
+		"name": "bronzor",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/436.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 437,
+		"name": "bronzong",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/437.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 438,
+		"name": "bonsly",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/438.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 439,
+		"name": "mime-jr",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/439.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 440,
+		"name": "happiny",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/440.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 441,
+		"name": "chatot",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/441.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 442,
+		"name": "spiritomb",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/442.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 443,
+		"name": "gible",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/443.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 444,
+		"name": "gabite",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/444.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 445,
+		"name": "garchomp",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/445.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 446,
+		"name": "munchlax",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/446.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 447,
+		"name": "riolu",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/447.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 448,
+		"name": "lucario",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 449,
+		"name": "hippopotas",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/449.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 450,
+		"name": "hippowdon",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/450.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 451,
+		"name": "skorupi",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/451.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 452,
+		"name": "drapion",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/452.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 453,
+		"name": "croagunk",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/453.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 454,
+		"name": "toxicroak",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/454.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 455,
+		"name": "carnivine",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/455.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 456,
+		"name": "finneon",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/456.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 457,
+		"name": "lumineon",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/457.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 458,
+		"name": "mantyke",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/458.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 459,
+		"name": "snover",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/459.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 460,
+		"name": "abomasnow",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/460.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 461,
+		"name": "weavile",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/461.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 462,
+		"name": "magnezone",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/462.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 463,
+		"name": "lickilicky",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/463.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 464,
+		"name": "rhyperior",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/464.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 465,
+		"name": "tangrowth",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/465.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 466,
+		"name": "electivire",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/466.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 467,
+		"name": "magmortar",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/467.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 468,
+		"name": "togekiss",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/468.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 469,
+		"name": "yanmega",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/469.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 470,
+		"name": "leafeon",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/470.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 471,
+		"name": "glaceon",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/471.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 472,
+		"name": "gliscor",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/472.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 473,
+		"name": "mamoswine",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/473.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 474,
+		"name": "porygon-z",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/474.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 475,
+		"name": "gallade",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/475.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 476,
+		"name": "probopass",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/476.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 477,
+		"name": "dusknoir",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/477.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 478,
+		"name": "froslass",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/478.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 479,
+		"name": "rotom",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/479.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 480,
+		"name": "uxie",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/480.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 481,
+		"name": "mesprit",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/481.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 482,
+		"name": "azelf",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/482.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 483,
+		"name": "dialga",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/483.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 484,
+		"name": "palkia",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/484.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 485,
+		"name": "heatran",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/485.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 486,
+		"name": "regigigas",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/486.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 487,
+		"name": "giratina-altered",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/487.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 488,
+		"name": "cresselia",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/488.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 489,
+		"name": "phione",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/489.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 490,
+		"name": "manaphy",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/490.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 491,
+		"name": "darkrai",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/491.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 492,
+		"name": "shaymin-land",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/492.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 493,
+		"name": "arceus",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 494,
+		"name": "victini",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/494.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 495,
+		"name": "snivy",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/495.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 496,
+		"name": "servine",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/496.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 497,
+		"name": "serperior",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/497.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 498,
+		"name": "tepig",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/498.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 499,
+		"name": "pignite",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/499.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 500,
+		"name": "emboar",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/500.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 501,
+		"name": "oshawott",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/501.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 502,
+		"name": "dewott",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/502.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 503,
+		"name": "samurott",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/503.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 504,
+		"name": "patrat",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/504.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 505,
+		"name": "watchog",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/505.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 506,
+		"name": "lillipup",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/506.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 507,
+		"name": "herdier",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/507.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 508,
+		"name": "stoutland",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/508.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 509,
+		"name": "purrloin",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/509.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 510,
+		"name": "liepard",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/510.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 511,
+		"name": "pansage",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/511.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 512,
+		"name": "simisage",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/512.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 513,
+		"name": "pansear",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/513.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 514,
+		"name": "simisear",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/514.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 515,
+		"name": "panpour",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/515.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 516,
+		"name": "simipour",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/516.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 517,
+		"name": "munna",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/517.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 518,
+		"name": "musharna",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/518.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 519,
+		"name": "pidove",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/519.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 520,
+		"name": "tranquill",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/520.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 521,
+		"name": "unfezant",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/521.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 522,
+		"name": "blitzle",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/522.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 523,
+		"name": "zebstrika",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/523.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 524,
+		"name": "roggenrola",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/524.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 525,
+		"name": "boldore",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/525.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 526,
+		"name": "gigalith",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/526.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 527,
+		"name": "woobat",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/527.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 528,
+		"name": "swoobat",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/528.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 529,
+		"name": "drilbur",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/529.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 530,
+		"name": "excadrill",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/530.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 531,
+		"name": "audino",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/531.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 532,
+		"name": "timburr",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/532.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 533,
+		"name": "gurdurr",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/533.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 534,
+		"name": "conkeldurr",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/534.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 535,
+		"name": "tympole",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/535.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 536,
+		"name": "palpitoad",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/536.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 537,
+		"name": "seismitoad",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/537.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 538,
+		"name": "throh",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/538.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 539,
+		"name": "sawk",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/539.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 540,
+		"name": "sewaddle",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/540.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 541,
+		"name": "swadloon",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/541.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 542,
+		"name": "leavanny",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/542.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 543,
+		"name": "venipede",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/543.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 544,
+		"name": "whirlipede",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/544.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 545,
+		"name": "scolipede",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/545.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 546,
+		"name": "cottonee",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/546.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 547,
+		"name": "whimsicott",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/547.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 548,
+		"name": "petilil",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/548.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 549,
+		"name": "lilligant",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/549.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 550,
+		"name": "basculin-red-striped",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/550.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 551,
+		"name": "sandile",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/551.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 552,
+		"name": "krokorok",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/552.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 553,
+		"name": "krookodile",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/553.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 554,
+		"name": "darumaka",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/554.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 555,
+		"name": "darmanitan-standard",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/555.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 556,
+		"name": "maractus",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/556.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 557,
+		"name": "dwebble",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/557.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 558,
+		"name": "crustle",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/558.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 559,
+		"name": "scraggy",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/559.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 560,
+		"name": "scrafty",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/560.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 561,
+		"name": "sigilyph",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/561.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 562,
+		"name": "yamask",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/562.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 563,
+		"name": "cofagrigus",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/563.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 564,
+		"name": "tirtouga",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/564.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 565,
+		"name": "carracosta",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/565.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 566,
+		"name": "archen",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/566.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 567,
+		"name": "archeops",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/567.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 568,
+		"name": "trubbish",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/568.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 569,
+		"name": "garbodor",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/569.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 570,
+		"name": "zorua",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/570.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 571,
+		"name": "zoroark",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/571.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 572,
+		"name": "minccino",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/572.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 573,
+		"name": "cinccino",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/573.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 574,
+		"name": "gothita",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/574.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 575,
+		"name": "gothorita",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/575.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 576,
+		"name": "gothitelle",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/576.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 577,
+		"name": "solosis",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/577.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 578,
+		"name": "duosion",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/578.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 579,
+		"name": "reuniclus",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/579.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 580,
+		"name": "ducklett",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/580.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 581,
+		"name": "swanna",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/581.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 582,
+		"name": "vanillite",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/582.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 583,
+		"name": "vanillish",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/583.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 584,
+		"name": "vanilluxe",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/584.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 585,
+		"name": "deerling",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/585.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 586,
+		"name": "sawsbuck",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/586.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 587,
+		"name": "emolga",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/587.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 588,
+		"name": "karrablast",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/588.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 589,
+		"name": "escavalier",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/589.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 590,
+		"name": "foongus",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/590.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 591,
+		"name": "amoonguss",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/591.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 592,
+		"name": "frillish",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/592.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 593,
+		"name": "jellicent",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/593.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 594,
+		"name": "alomomola",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/594.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 595,
+		"name": "joltik",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/595.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 596,
+		"name": "galvantula",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/596.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 597,
+		"name": "ferroseed",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/597.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 598,
+		"name": "ferrothorn",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/598.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 599,
+		"name": "klink",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/599.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 600,
+		"name": "klang",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/600.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 601,
+		"name": "klinklang",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/601.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 602,
+		"name": "tynamo",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/602.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 603,
+		"name": "eelektrik",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/603.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 604,
+		"name": "eelektross",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/604.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 605,
+		"name": "elgyem",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/605.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 606,
+		"name": "beheeyem",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/606.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 607,
+		"name": "litwick",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/607.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 608,
+		"name": "lampent",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/608.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 609,
+		"name": "chandelure",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/609.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 610,
+		"name": "axew",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/610.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 611,
+		"name": "fraxure",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/611.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 612,
+		"name": "haxorus",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/612.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 613,
+		"name": "cubchoo",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/613.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 614,
+		"name": "beartic",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/614.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 615,
+		"name": "cryogonal",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/615.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 616,
+		"name": "shelmet",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/616.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 617,
+		"name": "accelgor",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/617.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 618,
+		"name": "stunfisk",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/618.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 619,
+		"name": "mienfoo",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/619.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 620,
+		"name": "mienshao",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/620.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 621,
+		"name": "druddigon",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/621.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 622,
+		"name": "golett",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/622.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 623,
+		"name": "golurk",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/623.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 624,
+		"name": "pawniard",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/624.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 625,
+		"name": "bisharp",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/625.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 626,
+		"name": "bouffalant",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/626.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 627,
+		"name": "rufflet",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/627.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 628,
+		"name": "braviary",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/628.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 629,
+		"name": "vullaby",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/629.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 630,
+		"name": "mandibuzz",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/630.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 631,
+		"name": "heatmor",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/631.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 632,
+		"name": "durant",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/632.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 633,
+		"name": "deino",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/633.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 634,
+		"name": "zweilous",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/634.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 635,
+		"name": "hydreigon",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/635.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 636,
+		"name": "larvesta",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/636.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 637,
+		"name": "volcarona",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/637.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 638,
+		"name": "cobalion",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/638.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 639,
+		"name": "terrakion",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/639.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 640,
+		"name": "virizion",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/640.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 641,
+		"name": "tornadus-incarnate",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/641.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 642,
+		"name": "thundurus-incarnate",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/642.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 643,
+		"name": "reshiram",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 644,
+		"name": "zekrom",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/644.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 645,
+		"name": "landorus-incarnate",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/645.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 646,
+		"name": "kyurem",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/646.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 647,
+		"name": "keldeo-ordinary",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/647.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 648,
+		"name": "meloetta-aria",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/648.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 649,
+		"name": "genesect",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/649.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 650,
+		"name": "chespin",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/650.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 651,
+		"name": "quilladin",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/651.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 652,
+		"name": "chesnaught",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/652.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 653,
+		"name": "fennekin",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/653.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 654,
+		"name": "braixen",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/654.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 655,
+		"name": "delphox",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/655.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 656,
+		"name": "froakie",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/656.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 657,
+		"name": "frogadier",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/657.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 658,
+		"name": "greninja",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/658.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 659,
+		"name": "bunnelby",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/659.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 660,
+		"name": "diggersby",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/660.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 661,
+		"name": "fletchling",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/661.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 662,
+		"name": "fletchinder",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/662.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 663,
+		"name": "talonflame",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/663.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 664,
+		"name": "scatterbug",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/664.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 665,
+		"name": "spewpa",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/665.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 666,
+		"name": "vivillon",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/666.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 667,
+		"name": "litleo",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/667.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 668,
+		"name": "pyroar",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/668.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 669,
+		"name": "flabebe",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/669.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 670,
+		"name": "floette",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/670.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 671,
+		"name": "florges",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/671.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 672,
+		"name": "skiddo",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/672.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 673,
+		"name": "gogoat",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/673.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 674,
+		"name": "pancham",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/674.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 675,
+		"name": "pangoro",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/675.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 676,
+		"name": "furfrou",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/676.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 677,
+		"name": "espurr",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/677.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 678,
+		"name": "meowstic-male",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/678.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 679,
+		"name": "honedge",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/679.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 680,
+		"name": "doublade",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/680.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 681,
+		"name": "aegislash-shield",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/681.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 682,
+		"name": "spritzee",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/682.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 683,
+		"name": "aromatisse",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/683.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 684,
+		"name": "swirlix",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/684.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 685,
+		"name": "slurpuff",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/685.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 686,
+		"name": "inkay",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/686.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 687,
+		"name": "malamar",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/687.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 688,
+		"name": "binacle",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/688.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 689,
+		"name": "barbaracle",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/689.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 690,
+		"name": "skrelp",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/690.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 691,
+		"name": "dragalge",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/691.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 692,
+		"name": "clauncher",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/692.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 693,
+		"name": "clawitzer",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/693.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 694,
+		"name": "helioptile",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/694.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 695,
+		"name": "heliolisk",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/695.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 696,
+		"name": "tyrunt",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/696.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 697,
+		"name": "tyrantrum",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/697.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 698,
+		"name": "amaura",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/698.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 699,
+		"name": "aurorus",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/699.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 700,
+		"name": "sylveon",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/700.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 701,
+		"name": "hawlucha",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/701.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 702,
+		"name": "dedenne",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/702.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 703,
+		"name": "carbink",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/703.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 704,
+		"name": "goomy",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/704.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 705,
+		"name": "sliggoo",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/705.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 706,
+		"name": "goodra",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/706.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 707,
+		"name": "klefki",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/707.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 708,
+		"name": "phantump",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/708.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 709,
+		"name": "trevenant",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/709.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 710,
+		"name": "pumpkaboo-average",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/710.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 711,
+		"name": "gourgeist-average",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/711.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 712,
+		"name": "bergmite",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/712.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 713,
+		"name": "avalugg",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/713.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 714,
+		"name": "noibat",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/714.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 715,
+		"name": "noivern",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/715.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 716,
+		"name": "xerneas",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/716.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 717,
+		"name": "yveltal",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/717.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 718,
+		"name": "zygarde-50",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/718.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 719,
+		"name": "diancie",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/719.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 720,
+		"name": "hoopa",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/720.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 721,
+		"name": "volcanion",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/721.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 722,
+		"name": "rowlet",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/722.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 723,
+		"name": "dartrix",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/723.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 724,
+		"name": "decidueye",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/724.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 725,
+		"name": "litten",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/725.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 726,
+		"name": "torracat",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/726.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 727,
+		"name": "incineroar",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/727.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 728,
+		"name": "popplio",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/728.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 729,
+		"name": "brionne",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/729.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 730,
+		"name": "primarina",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/730.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 731,
+		"name": "pikipek",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/731.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 732,
+		"name": "trumbeak",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/732.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 733,
+		"name": "toucannon",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/733.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 734,
+		"name": "yungoos",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/734.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 735,
+		"name": "gumshoos",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/735.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 736,
+		"name": "grubbin",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/736.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 737,
+		"name": "charjabug",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/737.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 738,
+		"name": "vikavolt",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/738.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 739,
+		"name": "crabrawler",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/739.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 740,
+		"name": "crabominable",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/740.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 741,
+		"name": "oricorio-baile",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/741.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 742,
+		"name": "cutiefly",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/742.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 743,
+		"name": "ribombee",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/743.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 744,
+		"name": "rockruff",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/744.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 745,
+		"name": "lycanroc-midday",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/745.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 746,
+		"name": "wishiwashi-solo",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/746.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 747,
+		"name": "mareanie",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/747.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 748,
+		"name": "toxapex",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/748.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 749,
+		"name": "mudbray",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/749.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 750,
+		"name": "mudsdale",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/750.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 751,
+		"name": "dewpider",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/751.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 752,
+		"name": "araquanid",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/752.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 753,
+		"name": "fomantis",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/753.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 754,
+		"name": "lurantis",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/754.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 755,
+		"name": "morelull",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/755.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 756,
+		"name": "shiinotic",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/756.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 757,
+		"name": "salandit",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/757.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 758,
+		"name": "salazzle",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/758.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 759,
+		"name": "stufful",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/759.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 760,
+		"name": "bewear",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/760.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 761,
+		"name": "bounsweet",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/761.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 762,
+		"name": "steenee",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/762.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 763,
+		"name": "tsareena",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/763.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 764,
+		"name": "comfey",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/764.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 765,
+		"name": "oranguru",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/765.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 766,
+		"name": "passimian",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/766.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 767,
+		"name": "wimpod",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/767.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 768,
+		"name": "golisopod",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/768.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 769,
+		"name": "sandygast",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/769.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 770,
+		"name": "palossand",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/770.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 771,
+		"name": "pyukumuku",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/771.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 772,
+		"name": "type-null",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/772.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 773,
+		"name": "silvally",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/773.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 774,
+		"name": "minior-red-meteor",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/774.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 775,
+		"name": "komala",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/775.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 776,
+		"name": "turtonator",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/776.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 777,
+		"name": "togedemaru",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/777.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 778,
+		"name": "mimikyu-disguised",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/778.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 779,
+		"name": "bruxish",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/779.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 780,
+		"name": "drampa",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/780.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 781,
+		"name": "dhelmise",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/781.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 782,
+		"name": "jangmo-o",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/782.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 783,
+		"name": "hakamo-o",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/783.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 784,
+		"name": "kommo-o",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/784.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 785,
+		"name": "tapu-koko",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/785.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 786,
+		"name": "tapu-lele",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/786.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 787,
+		"name": "tapu-bulu",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/787.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 788,
+		"name": "tapu-fini",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/788.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 789,
+		"name": "cosmog",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/789.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 790,
+		"name": "cosmoem",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/790.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 791,
+		"name": "solgaleo",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/791.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 792,
+		"name": "lunala",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/792.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 793,
+		"name": "nihilego",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/793.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 794,
+		"name": "buzzwole",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/794.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 795,
+		"name": "pheromosa",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/795.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 796,
+		"name": "xurkitree",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/796.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 797,
+		"name": "celesteela",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/797.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 798,
+		"name": "kartana",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/798.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 799,
+		"name": "guzzlord",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/799.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 800,
+		"name": "necrozma",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/800.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 801,
+		"name": "magearna",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/801.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 802,
+		"name": "marshadow",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/802.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 803,
+		"name": "poipole",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/803.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 804,
+		"name": "naganadel",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/804.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 805,
+		"name": "stakataka",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/805.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 806,
+		"name": "blacephalon",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/806.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 807,
+		"name": "zeraora",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/807.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 808,
+		"name": "meltan",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/808.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 809,
+		"name": "melmetal",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/809.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 810,
+		"name": "grookey",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/810.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 811,
+		"name": "thwackey",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/811.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 812,
+		"name": "rillaboom",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/812.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 813,
+		"name": "scorbunny",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/813.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 814,
+		"name": "raboot",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/814.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 815,
+		"name": "cinderace",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/815.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 816,
+		"name": "sobble",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/816.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 817,
+		"name": "drizzile",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/817.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 818,
+		"name": "inteleon",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/818.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 819,
+		"name": "skwovet",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/819.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 820,
+		"name": "greedent",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/820.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 821,
+		"name": "rookidee",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/821.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 822,
+		"name": "corvisquire",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/822.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 823,
+		"name": "corviknight",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/823.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 824,
+		"name": "blipbug",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/824.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 825,
+		"name": "dottler",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/825.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 826,
+		"name": "orbeetle",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/826.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 827,
+		"name": "nickit",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/827.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 828,
+		"name": "thievul",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/828.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 829,
+		"name": "gossifleur",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/829.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 830,
+		"name": "eldegoss",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/830.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 831,
+		"name": "wooloo",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/831.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 832,
+		"name": "dubwool",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/832.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 833,
+		"name": "chewtle",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/833.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 834,
+		"name": "drednaw",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/834.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 835,
+		"name": "yamper",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/835.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 836,
+		"name": "boltund",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/836.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 837,
+		"name": "rolycoly",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/837.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 838,
+		"name": "carkol",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/838.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 839,
+		"name": "coalossal",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/839.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 840,
+		"name": "applin",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/840.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 841,
+		"name": "flapple",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/841.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 842,
+		"name": "appletun",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/842.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 843,
+		"name": "silicobra",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/843.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 844,
+		"name": "sandaconda",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/844.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 845,
+		"name": "cramorant",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/845.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 846,
+		"name": "arrokuda",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/846.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 847,
+		"name": "barraskewda",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/847.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 848,
+		"name": "toxel",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/848.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 849,
+		"name": "toxtricity-amped",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/849.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 850,
+		"name": "sizzlipede",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/850.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 851,
+		"name": "centiskorch",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/851.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 852,
+		"name": "clobbopus",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/852.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 853,
+		"name": "grapploct",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/853.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 854,
+		"name": "sinistea",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/854.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 855,
+		"name": "polteageist",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/855.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 856,
+		"name": "hatenna",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/856.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 857,
+		"name": "hattrem",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/857.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 858,
+		"name": "hatterene",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/858.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 859,
+		"name": "impidimp",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/859.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 860,
+		"name": "morgrem",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/860.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 861,
+		"name": "grimmsnarl",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/861.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 862,
+		"name": "obstagoon",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/862.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 863,
+		"name": "perrserker",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/863.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 864,
+		"name": "cursola",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/864.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 865,
+		"name": "sirfetchd",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/865.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 866,
+		"name": "mr-rime",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/866.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 867,
+		"name": "runerigus",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/867.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 868,
+		"name": "milcery",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/868.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 869,
+		"name": "alcremie",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/869.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 870,
+		"name": "falinks",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/870.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 871,
+		"name": "pincurchin",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/871.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 872,
+		"name": "snom",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/872.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 873,
+		"name": "frosmoth",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/873.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 874,
+		"name": "stonjourner",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/874.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 875,
+		"name": "eiscue-ice",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/875.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 876,
+		"name": "indeedee-male",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/876.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 877,
+		"name": "morpeko-full-belly",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/877.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 878,
+		"name": "cufant",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/878.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 879,
+		"name": "copperajah",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/879.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 880,
+		"name": "dracozolt",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/880.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 881,
+		"name": "arctozolt",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/881.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 882,
+		"name": "dracovish",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/882.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 883,
+		"name": "arctovish",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/883.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 884,
+		"name": "duraludon",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/884.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 885,
+		"name": "dreepy",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/885.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 886,
+		"name": "drakloak",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/886.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 887,
+		"name": "dragapult",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/887.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 888,
+		"name": "zacian",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/888.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 889,
+		"name": "zamazenta",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/889.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 890,
+		"name": "eternatus",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/890.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 891,
+		"name": "kubfu",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/891.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 892,
+		"name": "urshifu-single-strike",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/892.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 893,
+		"name": "zarude",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/893.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 894,
+		"name": "regieleki",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/894.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 895,
+		"name": "regidrago",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/895.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 896,
+		"name": "glastrier",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/896.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 897,
+		"name": "spectrier",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/897.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 898,
+		"name": "calyrex",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/898.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 899,
+		"name": "wyrdeer",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/899.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 900,
+		"name": "kleavor",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/900.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 901,
+		"name": "ursaluna",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/901.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 902,
+		"name": "basculegion-male",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/902.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 903,
+		"name": "sneasler",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/903.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 904,
+		"name": "overqwil",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/904.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	},
+	{
+		"number": 905,
+		"name": "enamorus-incarnate",
+		"url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/905.png",
+		"winnerVotes": 0,
+		"looserVotes": 0
+	}
+]
